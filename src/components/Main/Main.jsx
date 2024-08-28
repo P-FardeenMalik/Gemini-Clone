@@ -33,20 +33,20 @@ const Main = () => {
             <div className="cards">
               <div className="card">
                 <p>
-                  Recommend new types of water sports, including pros & cons
+                Recommend innovative fitness trends, including pros & cons.
                 </p>
                 <img src={assets.compass_icon} />
               </div>
               <div className="card">
-                <p>Suggest beautiful places to see on an upcoming road trip</p>
+                <p>Suggest beautiful hiking trails for outdoor enthusiasts.</p>
                 <img src={assets.bulb_icon} />
               </div>
               <div className="card">
-                <p>Write a code in python to generate this pattern</p>
+                <p>Create a Python program to print a diamond pattern using stars.</p>
                 <img src={assets.code_icon} />
               </div>
               <div className="card">
-                <p>Write a product description for a new type of toothbrush</p>
+                <p>Write a product description for an innovative smartphone case.</p>
                 <img src={assets.message_icon} />
               </div>
             </div>
