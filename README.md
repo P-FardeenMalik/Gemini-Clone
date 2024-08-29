@@ -1,8 +1,9 @@
-# React + Vite
+## Gemini Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Generative AI App using Google Gemini API and React JS.
 
-Currently, two official plugins are available:
+This is not an exact clone of Gemini. It only has the basic functionalities. Functions like uploading images or recording is not supported.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Add ur API key in a .env file
+
+Live Preview: https://gemini-clone-fardeen.vercel.app/
